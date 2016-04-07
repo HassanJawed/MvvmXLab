@@ -1,0 +1,41 @@
+#Autosave files
+*~
+
+# Xamarin
+packages/
+
+# Build/test output
+obj
+bin
+test-results
+
+# VS sometimes writes these for no apparent reason
+_UpgradeReport_Files
+UpgradeLog.*
+
+# Per-user data
+*.DS_Store
+*.sln.cache
+*.suo
+*.userprefs
+*.usertasks
+*.user
+
+# ReSharper
+*_Resharper.*
+*.Resharper
+
+# dotCover
+*.dotCover
+
+# Xamarin PCL
+*/bin/
+*/obj/
+
+# Xamarin.Droid
+Droid/bin/
+Droid/obj/
+
+# Xamarin.iOS
+iOS/bin/
+iOS/obj/
